@@ -8,6 +8,10 @@ Notable changes between versions.
 
 * Remove `controller_networkds` and `worker_networkds` variables. Use Container Linux Config snippets [#277](https://github.com/poseidon/typhoon/pull/277)
 
+#### Addons
+
+* Update nginx-ingress from 0.17.1 to 0.18.0
+
 ## v1.11.2
 
 * Kubernetes [v1.11.2](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.11.md#v1112)
